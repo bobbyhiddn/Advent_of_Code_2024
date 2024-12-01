@@ -90,7 +90,6 @@ def part_2(data):
     sorted_array1.sort()
     sorted_array2.sort()
 
-
     # Find the number of similar numbers in the two arrays, comparing left to how many similar numbers are in the right
     # Create a multidimensional array to store the number of similar numbers in the two arrays
     # So if there are 3 counts of 3, the array would look like [3[3]]
